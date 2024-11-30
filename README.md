@@ -32,7 +32,7 @@ If you copy, modify, or redistribute this project in any form without explicit w
 
 If you have queries, suggestions, or want to collaborate, feel free to connect:
 - GitHub: **[Rittik Sadhukhan](https://github.com/rittiksadhukhan)**
-- LinkedIn: **[Connect on LinkedIn](#)** (Replace `#` with your LinkedIn URL)
+- LinkedIn: **[Connect on LinkedIn](https://www.linkedin.com/in/astarand/)**
 
 ---
 
